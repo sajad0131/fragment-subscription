@@ -1,4 +1,4 @@
-name = "fragment-worker"
+name = "fragment-subscription"
 main = "_worker.js"
 compatibility_date = "2026-01-21"
 
