@@ -1,5 +1,5 @@
 name = "fragment-worker"
-main = "src/index.js"
+main = "_index.js"
 compatibility_date = "2026-01-21"
 
 workers_dev = true
